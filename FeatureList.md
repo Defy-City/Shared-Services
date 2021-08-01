@@ -10,17 +10,17 @@ There are 3 verticals of the application :
 
 - Supply / demand application ecosystem for mobility assets/robots 
   - Supply side: Assets
-- Demand side: Customers
-Admin side: Fleet Owner/ Fleet Manager
-Machine Learning 
-Routing Solutions
-Matching Algorithm 
-Common Services
-Authentication platform
-Compliance platform
-Finance platform
-Communication platform
-Real time asset tracking
-Analytics/Reports
-Product Security
-Data streaming and pipeline
+  - Demand side: Customers
+  - Admin side: Fleet Owner/ Fleet Manager
+- Machine Learning 
+  - Routing Solutions
+  - Matching Algorithm 
+- Common Services
+  - Authentication platform
+  - Compliance platform
+  - Finance platform
+  - Communication platform
+  - Real time asset tracking
+  - Analytics/Reports
+  - Product Security
+  - Data streaming and pipeline
