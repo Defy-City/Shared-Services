@@ -10,12 +10,13 @@ Defy.city is an end-to-end open source mobility framework. Transportation/mobili
 - Overall ecosystem: Think about a world where if you wanted to start a software project, every-time you started with building an operating system or a new programming language. That would be painful. The end-goal of the FOSS project is to elevate the entire ecosystem and building products/services that are completely new and unheard of. The best use of your time as a developer/company is to work on building new things and not re-inventing the wheel. 
 
 ## Industries/Companies that framework can be applied to:
-Ride-hailing services
-Fleet management
-Charging Infrastructure
-Battery Infrastructure including swapping tracking
-Food delivery
-Pharma delivery
-Uber of X : Supply-demand matching
-Trucking, cargo or logistics services
-Dispatch centers
+- Ride-hailing services
+- Fleet management
+- Charging Infrastructure
+- Battery Infrastructure including swapping tracking
+- Food delivery
+- Pharma delivery
+- Uber of X : Supply-demand matching
+- Trucking, cargo or logistics services
+- Dispatch centers
+- Anything and Everything where sharing os product or services can be implemented.....
