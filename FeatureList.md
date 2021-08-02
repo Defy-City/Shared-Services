@@ -1,6 +1,6 @@
 # Feature List
 
-### Two frameworks will be built:  
+### Frameworks to be built:  
 - Shared Services: Ride hailing or Supply-demand matching map based app
 - Embedded Services: Control the asset/vehicle/robot (Asset unlock/lock, air conditioning, etc)
 
